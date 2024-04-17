@@ -46,8 +46,8 @@ def upload_widget(
 def main():
     st.write("## Example")
     value = upload_widget(
-        'dbmataac4',
-        'upload-widget',
+        '<<your cloud name>>',
+        '<<your unsigned upload preset name>>',
         show_powered_by=False
     )
 
