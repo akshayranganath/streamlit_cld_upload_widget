@@ -1,0 +1,3 @@
+recursive-include src/streamlit_cld_upload_widget/frontend * 
+include README.md
+include LICENSE
